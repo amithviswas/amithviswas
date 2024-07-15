@@ -22,3 +22,11 @@ I'm currently working on: Developing predictive models for financial forecasting
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amithviswas) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/amithviswas /amithviswas /output/snake.svg" alt="Snake animation" />
+
+###
