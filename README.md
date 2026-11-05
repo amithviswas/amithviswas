@@ -1,32 +1,72 @@
-# 💫 About Me:
-I'm currently working on: Developing predictive models for financial forecasting using machine learning algorithms.<br>I'm looking to collaborate on: Projects involving natural language processing and sentiment analysis.<br>I'm looking for help with: Improving data visualization techniques and advanced statistical modeling.<br>I'm currently learning: Deep learning techniques for image recognition and neural network architectures.<br>Ask me about: Exploratory data analysis techniques and feature engineering strategies.<br>Fun fact: I enjoy experimenting with new datasets from unconventional sources, like social media trends and weather patterns.
+<!-- M Performance header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0D,55:1C69D4,80:2C56C4,100:E2231A&text=AMITH%20VISWAS%20REDDY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Salesforce%20Engineer%20%C2%B7%20Builder&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Amith Viswas Reddy" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2800&pause=900&color=6CB4EE&center=true&vCenter=true&width=620&lines=Associate+Software+Engineer+%40+Accenture;Salesforce+%C2%B7+Apex+%C2%B7+Lightning+%C2%B7+Flows;Web+%26+AI+builder+on+the+side;1+patent+pending+%C2%B7+9+shipped+projects" alt="typing" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amithviswas_reddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amith-viswas-reddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amithviswas0909) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amithviswas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amithviswas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amithviswas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amithviswas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://avr-portfolio-m5.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-M5%20EDITION-0B0B0D?style=for-the-badge&labelColor=1C69D4" /></a>
+  <a href="https://www.linkedin.com/in/amith-viswas-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C56C4" /></a>
+  <a href="mailto:amithviswas0909@gmail.com"><img src="https://img.shields.io/badge/Email-Pit%20Message-0B0B0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E2231A" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amithviswas&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amithviswas) 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ▍SPEC SHEET
 
-###
+```yaml
+driver:      Amith Viswas Reddy
+role:        Associate Software Engineer — Salesforce
+team:        Accenture, Hyderabad
+education:   B.Tech CSE, Lovely Professional University (2026)
+drivetrain:  Salesforce first · Web & AI on the side
+languages:   English · Hindi · Telugu · Japanese
+```
 
-<br clear="both">
+### ▍POWERTRAIN
 
-<img src="https://raw.githubusercontent.com/amithviswas /amithviswas /output/snake.svg" alt="Snake animation" />
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-1C69D4?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-2C56C4?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-###
+### ▍TRACK RECORD
+
+| No. | Build | What it does |
+|---|---|---|
+| M5-001 | [**CareerCompass**](https://github.com/amithviswas/career-compass) | AI career guidance app (TypeScript) |
+| M5-002 | [**ContextMesh**](https://github.com/amithviswas/contextmesh) | Context layer for AI workflows (TypeScript) |
+| M5-003 | [**LinkedIn Automation Agent**](https://github.com/amithviswas/linkedin-automation-agent) | AI content engine on Gemini + GitHub Actions |
+| M5-004 | [**NeuralFlow**](https://github.com/amithviswas/neuralflow) | Interactive neural-network web experience |
+| M5-005 | [**CrimeScope**](https://github.com/amithviswas/CrimeScope) | Crime data analysis in Python |
+| M5-006 | [**PDF Helper Bot**](https://github.com/amithviswas/pdf-helper-telegram-bot) | Telegram bot for everyday PDF tasks |
+| M5-007 | [**Hanuman Temple Site**](https://github.com/amithviswas/sree-karyasiddhi-hanuman-temple) | Community temple website, Radhayapalem |
+| M5-008 | [**M5 Portfolio**](https://github.com/amithviswas/M5Portfolio) | This portfolio, BMW M5-inspired |
+
+**Patent pending** · **Certifications:** NPTEL (IIIT Bangalore) · CipherSchools · Academor · UiPath
+
+### ▍TELEMETRY
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amithviswas&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=1C69D4&icon_color=E2231A&text_color=E6E6E6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amithviswas&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=1C69D4&text_color=E6E6E6" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amithviswas&hide_border=true&background=0B0B0D&ring=1C69D4&fire=E2231A&currStreakLabel=6CB4EE&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amithviswas/amithviswas/output/snake.svg" alt="contribution snake" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E2231A,20:2C56C4,45:1C69D4,100:0B0B0D" width="100%" />
